@@ -20,8 +20,6 @@ function varargout = equilizer(varargin)
 %
 % See also: GUIDE, GUIDATA, GUIHANDLES
 
-% Edit the above text to modify the response to help equilizer
-
 % Last Modified by GUIDE v2.5 10-May-2017 03:37:15
 
 % Begin initialization code - DO NOT EDIT
